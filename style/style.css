@@ -286,8 +286,8 @@ strong {
   border: 1px solid black;
                   color: white;
                   height: 28px;
-                  max-width: 26%;
-                  margin-top: 0.99px;
+                  max-width: 32%;
+                  margin-top: 1px;
                   margin-left: 8%;
 }
 .newsletter-loading-button{
@@ -390,7 +390,7 @@ form:focus-within {
     border: 1px solid black;
     color: white;
     height: 28px;
-    max-width: 39%;
+    max-width: 46%;
     margin-top: 0.99px;
     margin-left: 8%;
   }
