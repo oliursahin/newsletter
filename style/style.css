@@ -283,6 +283,12 @@ strong {
   line-height: 20px;
   border: none;
   cursor: pointer;
+  border: 1px solid black;
+                  color: white;
+                  height: 28px;
+                  max-width: 26%;
+                  margin-top: 0.99px;
+                  margin-left: 8%;
 }
 .newsletter-loading-button{
   background: rgb(0, 0, 0);
@@ -378,6 +384,15 @@ form:focus-within {
 @media screen and (max-width: 519px) {
   .form-width{
     width: 100%;
+  }
+
+  .newsletter-form-button{
+    border: 1px solid black;
+    color: white;
+    height: 28px;
+    max-width: 39%;
+    margin-top: 0.99px;
+    margin-left: 8%;
   }
 }
 
